@@ -1,5 +1,9 @@
 # DOOM NUKEM
 
+## TO DO FIRST
+
+- Before you'r first make, do : make PACKAGE_INSTALL=1
+
 ## Control input
 
 ### Geneal 3D input
