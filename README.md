@@ -1,5 +1,7 @@
 # DOOM NUKEM
 
+- Doom-nukem is a group project from School 42. The goal is to develop and program a video game. With its own graphics engine, map editor, game design
+
 ## TO DO FIRST
 
 - Before you'r first make, do : make PACKAGE_INSTALL=1
